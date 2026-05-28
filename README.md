@@ -1,1 +1,1 @@
-Personal copy, Currently playing on build 2025-05-27-0430.
+Mining mod for CDDA 0.I
